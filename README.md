@@ -1,2 +1,2 @@
-# CPSC353
-code
+Name:reese Quigley
+CLass: CPSC 353
